@@ -1,2 +1,2 @@
-# Real-Estate-Management-System
+# Real-Management-System
 Laravel Based Real Estate Management System
